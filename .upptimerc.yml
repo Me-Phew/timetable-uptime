@@ -6,11 +6,12 @@ sites:
     url: https://timetable.dripsiaga.pl/
   - name: API
     url: https://api.timetable.dripsiaga.pl/docs
+    icon: https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/server.svg
 
 status-website:
   baseUrl: /timetable-uptime
-  # favicon: 
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/android-chrome-192x192.png
   name: MePhew Timetable Status
   navbar:
     - title: Status
