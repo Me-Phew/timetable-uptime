@@ -3,9 +3,9 @@ repo: timetable-uptime
 
 sites:
   - name: Timetable
-    url: https://timetable.dripsiaga.pl/
+    url: https://timetable.mateuszbasiaga.pl/
   - name: API
-    url: https://api.timetable.dripsiaga.pl/docs
+    url: https://api.timetable.mateuszbasiaga.pl/docs
     icon: https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/server.svg
 
 status-website:
