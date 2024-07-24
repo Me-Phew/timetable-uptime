@@ -1,7 +1,7 @@
 url: https://api.timetable.mateuszbasiaga.pl/docs
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-24T00:00:21.092Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2024-07-24T02:10:01.448Z
 startTime: 2023-06-17T16:03:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
