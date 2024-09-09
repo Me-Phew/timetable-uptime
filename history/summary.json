@@ -4,7 +4,7 @@
     "url": "https://timetable.mateuszbasiaga.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/timetable.mateuszbasiaga.pl.ico",
     "slug": "timetable",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 416,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-07-24": 69,
       "2023-10-13": 1325,
       "2023-10-12": 1440,
@@ -30,7 +31,7 @@
     "url": "https://api.timetable.mateuszbasiaga.pl/docs",
     "icon": "https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/server.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +43,7 @@
     "timeMonth": 420,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-07-24": 69,
       "2024-07-20": 21,
       "2024-03-19": 100,
