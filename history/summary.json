@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetable.mateuszbasiaga.pl.ico",
     "slug": "timetable",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.61%",
-    "time": 444,
-    "timeDay": 478,
-    "timeWeek": 378,
-    "timeMonth": 415,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.89%",
+    "time": 443,
+    "timeDay": 359,
+    "timeWeek": 386,
+    "timeMonth": 416,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2024-09-09": 208,
       "2024-07-24": 69,
       "2023-10-13": 1325,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -32,12 +31,12 @@
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.57%",
-    "time": 435,
-    "timeDay": 468,
-    "timeWeek": 388,
-    "timeMonth": 420,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.85%",
+    "time": 434,
+    "timeDay": 377,
+    "timeWeek": 384,
+    "timeMonth": 419,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2024-09-09": 209,
@@ -46,8 +45,7 @@
       "2024-03-19": 100,
       "2024-03-18": 101,
       "2023-10-13": 1325,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   }
 ]
