@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
     "time": 438,
-    "timeDay": 526,
-    "timeWeek": 477,
-    "timeMonth": 464,
+    "timeDay": 336,
+    "timeWeek": 482,
+    "timeMonth": 452,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-12-21": 1359,
@@ -30,16 +30,16 @@
     "icon": "https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/server.svg",
     "slug": "api",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.18%",
     "uptimeYear": "89.68%",
     "time": 439,
-    "timeDay": 515,
-    "timeWeek": 437,
-    "timeMonth": 436,
-    "timeYear": 446,
+    "timeDay": 321,
+    "timeWeek": 425,
+    "timeMonth": 430,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-07-06": 821,
       "2025-07-05": 1440,
@@ -84,8 +84,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1294,
       "2024-09-09": 209,
-      "2024-07-24": 69,
-      "2024-07-20": 21
+      "2024-07-24": 69
     }
   }
 ]
