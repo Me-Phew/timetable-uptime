@@ -1,7 +1,7 @@
 url: https://timetable.mateuszbasiaga.pl/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-28T17:07:59.743Z
+status: up
+code: 200
+responseTime: 415
+lastUpdated: 2025-10-28T17:29:08.707Z
 startTime: 2023-06-17T16:03:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
