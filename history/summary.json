@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 333,
-    "timeWeek": 406,
-    "timeMonth": 418,
-    "timeYear": 479,
+    "timeDay": 413,
+    "timeWeek": 418,
+    "timeMonth": 415,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2025-10-28": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://raw.githubusercontent.com/Me-Phew/timetable-uptime/master/assets/server.svg",
     "slug": "api",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.71%",
+    "uptimeYear": "91.99%",
     "time": 468,
-    "timeDay": 343,
-    "timeWeek": 411,
+    "timeDay": 423,
+    "timeWeek": 424,
     "timeMonth": 454,
-    "timeYear": 472,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2025-10-28": 21,
       "2025-07-06": 821,
@@ -68,8 +68,7 @@
       "2025-04-20": 966,
       "2025-04-08": 413,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   }
 ]
